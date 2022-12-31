@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @weldongoree
 - 👀 I’m interested in serverless cloud programming
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on information theory libraries
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on audio programming
 - 📫 How to reach me weldon (at) weldon (dot) dev
 
 <!---
