@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @weldongoree
-- 👀 I’m interested in serverless cloud programming
+- 👀 I’m interested in scientific and numerical programming
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on audio programming
 - 📫 How to reach me weldon (at) weldon (dot) dev
