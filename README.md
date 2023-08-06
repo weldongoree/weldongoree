@@ -2,7 +2,7 @@
 - 👀 I’m interested in scientific and numerical programming
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on audio programming
-- 📫 How to reach me weldon (at) weldon (dot) dev
+- 📫 How to reach me weldon (at) librem (dot) one
 
 <!---
 weldongoree/weldongoree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
